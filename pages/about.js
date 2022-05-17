@@ -17,7 +17,7 @@ function about() {
         <h1 className='text-center text-2xl font-harryp sm:text-3xl pb-[2vw]'>This website was built with the React.js library, the Next.js framework and styled with Tailwind.css</h1>
         <h1 className='text-center text-2xl font-harryp sm:text-3xl pb-[2vw]'>The purpose of this site is to test out pulling data from APIs using the getServerSideProps function and then be able to filter the data via a searchbar and map the data to different points on the site.</h1>
         <h1 className='text-center text-2xl font-harryp sm:text-3xl pb-[2vw]'>This site pulls data from the Harry Potter API that can be found on github here:
-        <a href='https://github.com/fedeperin/harry-potter-api-english#harry-potter-api' target="_blank" className='hover:text-red-600'> Github Link</a></h1>
+        <a href='https://github.com/fedeperin/harry-potter-api-english#harry-potter-api' target='_blank' rel='noopener' className='hover:text-red-600'> Github Link</a></h1>
         <h1 className='text-center text-2xl font-harryp sm:text-3xl pb-[2vw]'>This site also uses a custom font that is stored locally on the hosting server.</h1>
       </div>
       <div className='inset-x-0 bottom-0 fixed'>
