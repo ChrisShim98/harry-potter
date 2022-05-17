@@ -19,10 +19,10 @@ function contact() {
           The developer can be contacted via:
         </h1>
         <div className="flex justify-center">
-          <a href='https://twitter.com/ChrisShim_' target='_blank' rel='noopener' className="text-2xl sm:text-3xl px-[2vw] hover:text-red-600">
+          <a href='https://twitter.com/ChrisShim_' target='_blank' rel='noreferrer' className="text-2xl sm:text-3xl px-[2vw] hover:text-red-600">
             <FaTwitter />
           </a>
-          <a href='https://www.youtube.com/channel/UCild7pbBT8Zalh9s349rmrQ' target='_blank' rel='noopener' className="text-2xl sm:text-3xl px-[2vw] hover:text-red-600">
+          <a href='https://www.youtube.com/channel/UCild7pbBT8Zalh9s349rmrQ' target='_blank' rel='noreferrer' className="text-2xl sm:text-3xl px-[2vw] hover:text-red-600">
             <FaYoutube />
           </a>
         </div>
