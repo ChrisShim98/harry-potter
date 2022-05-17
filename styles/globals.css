@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+        font-family: 'HarryP';
+        src: url('/fonts/HarryP.woff2') format('woff2');
+        font-weight: 400;
+        font-display: swap;
+        font-style: normal;
+    }
+    li {
+        @apply p-4 text-red-600 hover:text-black
+    }
+}
