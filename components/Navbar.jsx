@@ -10,11 +10,11 @@ const Navbar = () => {
     <div className="w-screen h-[80px] z-10 bg-yellow-300 fixed drop-shadow-lg">
       <div className="px-2 flex justify-between items-center w-fll h-full">
         <div className="flex items-center">
-          <Link href="./">
+          <a href="./">
             <h1 className="text-2xl font-bold mr-4 text-red-600 x-sm:text-3xl sm:text-4xl md:text-5xl font-harryp cursor-pointer">
               HARRY POTTER UNIVERSE
             </h1>
-          </Link>
+          </a>
           <SparklesIcon className="w-5 text-red-600 x-sm:w-5 sm:w-9" />
         </div>
         <div>

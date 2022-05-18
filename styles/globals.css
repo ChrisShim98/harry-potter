@@ -10,6 +10,9 @@
         font-display: swap;
         font-style: normal;
     }
+    body {
+        @apply bg-[#f4f6f7] tracking-wide
+    }
     li {
         @apply p-4 text-red-600 hover:text-black
     }
